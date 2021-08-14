@@ -20,8 +20,8 @@
 16. Volume Of Cylinder
 17. Volume Of Sphere
 18. Volume Of Pyramid
-19. Curved Surface Area Of Cube
-20. Total Surface Area Of Cylinder
+19. Curved Surface Area Of Cylinder
+20. Total Surface Area Of Cube
 21. Fibonacci Series In Java Programs
 22. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
@@ -33,7 +33,7 @@
 5. Calculate Distance Between Two Points 
 6. Calculate Commission Percentage
 7. Power In Java
-8. Deprecation Program
+8. Calculate Depreciation of Value
 9. Calculate Batting Average
 10. Calculate CGPA Java Program
 11. Compound Interest Java Program
@@ -51,3 +51,4 @@
 23. Perfect Number In Java
 24. Check Leap Year Or Not
 25. Sum Of A Digits Of Number
+26. Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to check if he can go out in the month of August.
