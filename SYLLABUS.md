@@ -34,6 +34,11 @@
     - Memory management
     - Input and Output
     - ArrayList Introduction
+    - Searching
+        - Linear Search 
+        - Binary Search
+        - Modified Binary Search
+        - Binary Search on 2D Arrays
     - Sorting
         - Insertion Sort
         - Selection Sort
@@ -41,11 +46,6 @@
         - Count Sort
         - Radix Sort
         - Cyclic Sort
-    - Searching
-        - Linear Search 
-        - Binary Search
-        - Modified Binary Search
-        - (more later)
     - Sliding window
     - Two Pointer
     - Subarray Questions
@@ -128,6 +128,7 @@
     - Lambda Expression
     - Enums
     - Fast IO
+- Greedy Algorithms
 - Stacks & Queues
     - Introduction
     - Interview problems
@@ -164,6 +165,7 @@
     - Introduction
     - Theory
     - Priority Queue
+    - Heapsort
     - Two Heaps Method
     - k-way merge
     - Top k elements
